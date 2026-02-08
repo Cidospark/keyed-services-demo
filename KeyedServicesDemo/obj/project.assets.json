@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mrfrancis/Desktop/PluralSight/KeyedServicesDemo/KeyedServicesDemo/KeyedServicesDemo.csproj",
+      "projectUniqueName": "/Users/mrfrancis/Desktop/PluralSight/keyed-services-demo/KeyedServicesDemo/KeyedServicesDemo.csproj",
       "projectName": "KeyedServicesDemo",
-      "projectPath": "/Users/mrfrancis/Desktop/PluralSight/KeyedServicesDemo/KeyedServicesDemo/KeyedServicesDemo.csproj",
+      "projectPath": "/Users/mrfrancis/Desktop/PluralSight/keyed-services-demo/KeyedServicesDemo/KeyedServicesDemo.csproj",
       "packagesPath": "/Users/mrfrancis/.nuget/packages/",
-      "outputPath": "/Users/mrfrancis/Desktop/PluralSight/KeyedServicesDemo/KeyedServicesDemo/obj/",
+      "outputPath": "/Users/mrfrancis/Desktop/PluralSight/keyed-services-demo/KeyedServicesDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mrfrancis/.nuget/NuGet/NuGet.Config"
