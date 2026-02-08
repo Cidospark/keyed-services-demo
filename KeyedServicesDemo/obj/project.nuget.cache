@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQ2xixcj2Fs=",
+  "success": true,
+  "projectFilePath": "/Users/mrfrancis/Desktop/PluralSight/KeyedServicesDemo/KeyedServicesDemo/KeyedServicesDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrfrancis/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/mrfrancis/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
