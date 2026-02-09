@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eud7BXS95+Rv4p1rHwYPGc52ON4SrTvhmJed8rTxGhs=",
+  "Source": "KeyedServiceDemo",
+  "BasePath": "_content/KeyedServiceDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
